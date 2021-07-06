@@ -18,7 +18,7 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 - Skills: **Pandas, Numpy, Matplotlib, Data Wrangling**
 - Impact: Analyze a sample consisting of **10,000 Android apps and 7,000 iOS apps**
 
-# [Project 2: Exploring eBay Car Sales Data](https://github.com/jtran2509/curly-octo-carnival/blob/master/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
+# [Project 2: Exploring eBay Car Sales Data](https://github.com/jtran2509/Jade_Projects/tree/main/Python/Data%20Science/Explore%20eBay%20Car%20Sales)
 
 #### Project at a Glance
 
