@@ -1,21 +1,18 @@
-# Jade_Portfolio
+# Dung (Jade) Tran - Projects Portfolio
 
-# [Project 1: Profitable App Profiles for the App Store and Google Play markets](https://github.com/jtran2509/curly-octo-carnival/blob/master/Profitable%20App%20Profiles%20for%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
-![Android and iOS apps](https://ddi-dev.com/uploads/media/news/0001/02/8f3d1e171ee5706e61b0fc701b4e8376eca9322d.jpeg)
-- Image Source: https://ddi-dev.com/blog/programming/10-differences-between-android-and-ios-app-development/
+## Index
 
-- Background: Analyze the data to help developers understand what type of apps (Android & iOS) are likely to attract more users.
-- Skills: **Pandas, Numpy, Matplotlib, Data Wrangling**
-- Impact: Analyze a sample consisting of **10,000 Android apps and 7,000 iOS apps**
+This repository holds all of my [Data Science]() projects that I've done over the years!
 
+## Background
 
-# [Project 2: Exploring eBay Car Sales Data](https://github.com/jtran2509/curly-octo-carnival/blob/master/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
-- Background:
-- Skills: **Pandas, Numpy, Matplotlb**
-- Impact: 
+Hello!
 
+My name is Dung Tran, you can call me Jade or my real name (if you know how to pronounce it PROPERLY, lol) and welcome to my Project Portfolio. A little bit about me. As of 2021, I'm a final year Dental Hygiene student at Fanshawe College in Canada. Although my studies was not related at all to Data Science, I have an urge to learn more about integrating Dental knowledge into technology, in terms of data. Although you haven't seen any Dental projects in my repo, I'm working on scrapping the data because it's not as available as chest X-rays in medical field. Now I'm focusing on gaining more in-depth knowledge by solving whatever problems or dataset com my way.
 
-# [Project 3: Finding the Best Market to Advertise In]()
-- Background: determine the 2 best markets to advertise the products of e-course related to web & mobile development industry
-- Skills: **Pandas, Numpy, Matplotlib, Statistics**
-- Impact: Identify top **2 out of 172** countries to target the advertisement with a bug
+#### Contact me
+
+| Contact Method | |
+| --- | --- |
+| Professional Email | dungvn1999@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/dungtran99/ |
