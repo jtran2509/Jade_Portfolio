@@ -8,13 +8,15 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 
 ## Data Science
 
-# [Project 1: Analyzing eBay Car Sales Data](https://github.com/jtran2509/Jade_Projects/tree/main/Python/Data%20Science/Explore%20eBay%20Car%20Sales)
+# [Project 1: Analyzing eBay Car Sales Data](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Explore%20eBay%20Car%20Sales/Analyzing%20eBay%20Car%20Sales%20Data.ipynb)
 
 #### Project at a Glance
 
-- Background:
+- Background: Exploring different brand of cars based on different aspects (odometer, price, registration year, ect.) of a datset scraped from German eBay Kleinanzeigen.
 - Skills: **Pandas, Numpy, Matplotlb**
-- Impact:
+- Impact: 
+  - Clean & analyze 50,000 samples from a full dataset
+  - Making educated conclusion about the relationship between various cars' component and its price
 
 # [Project 2: Finding Advertisement Opportunities - Analyzing different market around the world](https://www.notion.so/Github-6ec5550b1aa74b3dbe765aa3c18eaed1)
 
