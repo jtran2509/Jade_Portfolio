@@ -33,3 +33,10 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 - Background: determine the 2 best markets to advertise the products of e-course related to web & mobile development industry
 - Skills: **Pandas, Numpy, Matplotlib, Statistics**
 - Impact: Identify top **2 out of 172** countries to target the advertisement with a bug
+
+#[Project 4: Estimating Car Price Based on Various Car's Aspect using KNN]()
+
+#### Project at a Glance
+- Background: 
+- Skills:
+- Impact:
