@@ -10,32 +10,32 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 
 # [Project 1: Analyzing eBay Car Sales Data](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Explore%20eBay%20Car%20Sales/Analyzing%20eBay%20Car%20Sales%20Data.ipynb)
 
-#### Project at a Glance
+### Project at a Glance
 
 - Background: Exploring different brand of cars based on different aspects (odometer, price, registration year, ect.) of a datset scraped from German eBay Kleinanzeigen.
 - Skills: **Pandas, Numpy, Matplotlb**
 - Impact: 
-  - Clean & analyze 50,000 samples from a full dataset
+  - Clean & analyze **50,000 samples** from a full dataset
   - Making educated conclusion about the relationship between various cars' component and its price
 
-# [Project 2: Finding Advertisement Opportunities - Analyzing different market around the world](https://www.notion.so/Github-6ec5550b1aa74b3dbe765aa3c18eaed1)
+# [Project 2: Finding Advertisement Opportunities - Analyzing different market around the world](https://https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Finding%20Best%20Market%20to%20Advertise/Finding%20Advertisement%20Opportunities%20-%20Analyzing%20different%20market%20around%20the%20world.ipynb)
 
-#### Project at a Glance
+### Project at a Glance
 
-- Background: determine the 2 best markets to advertise the products of e-course related to web & mobile development industry
+- Background: determine the 2 best markets to advertise the products of e-course related to web & mobile development by analyzing a datset from [freeCodeCamp's 2017 New Coder survey](https://www.freecodecamp.org/news/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969/)
 - Skills: **Pandas, Numpy, Matplotlib, Statistics**
-- Impact: Identify top **2 out of 172** countries to target the advertisement with a bug
+- Impact: Identify top **2 out of 172** countries to target the advertisement after eliminating more than **50% outliers** from top **4 countries**
 
-# [Project 3: Estimating Car Price Based on Various Car's Aspect using KNN]()
+# [Project 3: Estimating Car Price Based on Various Car's Aspect using KNN](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Estimating%20Car%20Prices/Estimating%20Car%20Price%20Based%20on%20Various%20Car's%20Aspects.ipynb)
 
-#### Project at a Glance
-- Background: 
-- Skills:
-- Impact:
+### Project at a Glance
+- Background: Based on different attributes, use KNN model to calculate the RMSE to estimate which technical aspect of the car is the most relevant to its price
+- Skills: **Pandas, Numpy, Matplotlib, Statistics, Classification (K-NN)
+- Impact: successfully build a pipeline for both univariate & multivariate model to compute RMSE
 
-# [Project 4: Lottery Addict - Here's our mobile app (prototype)!]()
+# [Project 4: Lottery Addict - Here's our mobile app (prototype)!](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 
-#### Project at a Glance
-- Background:
-- Skills:
-- Impact:
+### Project at a Glance
+- Background: based on the [dataset](https://www.kaggle.com/datascienceai/lottery-dataset) of the national 6/49 lottery game in Canada (from Kaggle)
+- Skills: **Pandas, Numpy, Statistics,
+- Impact: Build pipeline to calculate **one-ticket & multi-ticket probability** as well as provide historical data check for users for authenticity.
