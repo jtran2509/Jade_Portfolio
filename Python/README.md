@@ -30,3 +30,10 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 - Background: 
 - Skills:
 - Impact:
+
+# [Project 4: Lottery Addict - Here's our mobile app (prototype)!]()
+
+#### Project at a Glance
+- Background:
+- Skills:
+- Impact:
