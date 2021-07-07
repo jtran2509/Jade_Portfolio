@@ -30,12 +30,12 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 
 ### Project at a Glance
 - Background: Based on different attributes, use KNN model to calculate the RMSE to estimate which technical aspect of the car is the most relevant to its price
-- Skills: **Pandas, Numpy, Matplotlib, Statistics, Classification (K-NN)
+- Skills: **Pandas, Numpy, Matplotlib, Statistics, Classification (K-NN)**
 - Impact: successfully build a pipeline for both univariate & multivariate model to compute RMSE
 
 # [Project 4: Lottery Addict - Here's our mobile app (prototype)!](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 
 ### Project at a Glance
 - Background: based on the [dataset](https://www.kaggle.com/datascienceai/lottery-dataset) of the national 6/49 lottery game in Canada (from Kaggle)
-- Skills: **Pandas, Numpy, Statistics,
+- Skills: **Pandas, Numpy, Statistics**
 - Impact: Build pipeline to calculate **one-ticket & multi-ticket probability** as well as provide historical data check for users for authenticity.
