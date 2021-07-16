@@ -8,3 +8,4 @@ I constantly update my notebooks file so the one you're seeing right now might n
 | --- | --- |
 | Professional Email | dungvn1999@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/dungtran99/ |
+| Phone | 226-582-1012
