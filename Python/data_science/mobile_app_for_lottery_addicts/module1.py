@@ -11,7 +11,8 @@ st.markdown('**Fictional scenario:** To prevent and treat gambling addictions, a
 
 
 from PIL import Image    
-image = Image.open('https://www.nanaimobulletin.com/wp-content/uploads/2020/03/21001966_web1_190827-NBU-lotto-win_1.jpg')
+image = Image.open('lottery.jpg')
+image = np.array(image)
 st.image(image, caption = '6/49 Lottery')
 
 st.header('Multi-ticket probability winning:')
@@ -96,7 +97,7 @@ st.write(probability_less_6(int(th)))
     
 from pathlib import Path 
 st.header('Functions for Historical Data Check')
-lottery = 'C:/Users/Dung/Jade_Projects/Python/data_science/mobile_app_for_lottery_addicts/649.csv'
+lottery = pd.read_csv('649.csv')
 
 st.markdown("Based on the numbers you provide, we'll use the historical data from the national 6/49 in Canada dating from 1982 to 2018 to determine whether you would have ever won by now!")
 
