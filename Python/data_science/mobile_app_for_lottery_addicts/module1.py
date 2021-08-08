@@ -11,7 +11,7 @@ st.markdown('**Fictional scenario:** To prevent and treat gambling addictions, a
 
 
 from PIL import Image    
-image = Image.open('C:/Users/Dung/Jade_Projects/Python/data_science/mobile_app_for_lottery_addicts/lottery.jpg')
+image = Image.open(lottery.jpg)
 st.image(image, caption = '6/49 Lottery')
 
 st.header('Multi-ticket probability winning:')
