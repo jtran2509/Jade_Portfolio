@@ -11,7 +11,7 @@ st.markdown('**Fictional scenario:** To prevent and treat gambling addictions, a
 
 
 from PIL import Image    
-image = Image.open(lottery.jpg)
+image = Image.open('https://www.nanaimobulletin.com/wp-content/uploads/2020/03/21001966_web1_190827-NBU-lotto-win_1.jpg')
 st.image(image, caption = '6/49 Lottery')
 
 st.header('Multi-ticket probability winning:')
