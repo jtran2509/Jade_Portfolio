@@ -10,9 +10,9 @@ st.header('About this calculator')
 st.markdown('**Fictional scenario:** To prevent and treat gambling addictions, a medical institute wants to build a dedicated mobile app to help lottery addicts better estimate their chances of winning')
 
 
-# from PIL import Image    
-# image = Image.open('lottery.jpg', type)
-# st.image(image, caption = '6/49 Lottery')
+from PIL import Image    
+image = Image.open('lottery.jpg')
+st.image(image, caption = '6/49 Lottery')
 
 st.header('Multi-ticket probability winning:')
 
@@ -94,9 +94,9 @@ th = st.number_input('Please enter a value between 2 and 6', min_value = 2, max_
 st.write(probability_less_6(int(th)))
     
     
-
+from pathlib import Path 
 st.header('Functions for Historical Data Check')
-lottery = pd.read_csv('649.csv')
+lottery = 'C:/Users/Dung/Jade_Projects/Python/data_science/mobile_app_for_lottery_addicts/649.csv'
 
 st.markdown("Based on the numbers you provide, we'll use the historical data from the national 6/49 in Canada dating from 1982 to 2018 to determine whether you would have ever won by now!")
 
