@@ -10,10 +10,10 @@ st.header('About this calculator')
 st.markdown('**Fictional scenario:** To prevent and treat gambling addictions, a medical institute wants to build a dedicated mobile app to help lottery addicts better estimate their chances of winning')
 
 
-from PIL import Image    
-image = Image.open('lottery.jpg')
-image = np.array(image)
-st.image(image, caption = '6/49 Lottery')
+from PIL import Image 
+
+ig = Image.open('lottery.jpg')
+st.image(ig, caption = '6/49 Lottery')
 
 st.header('Multi-ticket probability winning:')
 
