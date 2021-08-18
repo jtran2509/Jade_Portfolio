@@ -1,9 +1,5 @@
 # Dung (Jade) Tran - Projects Portfolio
 
-## Index
-
-This repository holds all of my [Data Science](https://github.com/jtran2509/Jade_Projects/tree/main/Python) projects that I've done over the years!
-
 ## Background
 
 Hello!
