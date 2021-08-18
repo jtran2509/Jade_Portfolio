@@ -18,7 +18,7 @@ Python is the first programming language I've ever learned. Later on, I tried ou
   - Clean & analyze **50,000 samples** from a full dataset
   - Making educated conclusion about the relationship between various cars' component and its price
 
-# [Project 2: Finding Advertisement Opportunities - Analyzing different market around the world](https://https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Finding%20Best%20Market%20to%20Advertise/Finding%20Advertisement%20Opportunities%20-%20Analyzing%20different%20market%20around%20the%20world.ipynb)
+# [Project 2: Finding Advertisement Opportunities - Analyzing different market around the world](https://github.com/jtran2509/best-market-to-advertise)
 
 ### Project at a Glance
 
@@ -26,14 +26,14 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 - Skills: **Pandas, Numpy, Matplotlib, Statistics**
 - Impact: Identify top **2 out of 172** countries to target the advertisement after eliminating more than **50% outliers** from top **4 countries**
 
-# [Project 3: Estimating Car Price Based on Various Car's Aspect using KNN](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Estimating%20Car%20Prices/Estimating%20Car%20Price%20Based%20on%20Various%20Car's%20Aspects.ipynb)
+# [Project 3: Estimating Car Price Based on Various Car's Aspect using KNN](https://github.com/jtran2509/estimate-car-price)
 
 ### Project at a Glance
 - Background: Based on different attributes, use KNN model to calculate the RMSE to estimate which technical aspect of the car is the most relevant to its price
 - Skills: **Pandas, Numpy, Matplotlib, Statistics, Classification (K-NN)**
 - Impact: successfully build a pipeline for both univariate & multivariate model to compute RMSE
 
-# [Project 4: Lottery Addict - Here's our mobile app (prototype)!](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+# [Project 4: Lottery Addict - Here's our mobile app (prototype)!](https://github.com/jtran2509/lottery-streamlit-heroku)
 
 ### Project at a Glance
 - Background: based on the [dataset](https://www.kaggle.com/datascienceai/lottery-dataset) of the national 6/49 lottery game in Canada (from Kaggle)
