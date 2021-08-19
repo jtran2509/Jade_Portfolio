@@ -8,7 +8,7 @@ Python is the first programming language I've ever learned. Later on, I tried ou
 
 ## Data Science
 
-# [Project 1: Analyzing eBay Car Sales Data](https://github.com/jtran2509/Jade_Projects/blob/main/Python/Data%20Science/Explore%20eBay%20Car%20Sales/Analyzing%20eBay%20Car%20Sales%20Data.ipynb)
+# [Project 1: Analyzing eBay Car Sales Data](https://github.com/jtran2509/ebay-car-sale)
 
 ### Project at a Glance
 
